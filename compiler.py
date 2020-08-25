@@ -1,3 +1,8 @@
+"""
+Program to compile Brainfuck to Python
+(c) 2017 Kabir Goel
+"""
+
 class BrainfuckCompilerError(Exception):
     pass
 
